@@ -1,0 +1,148 @@
+body{
+padding: 0px;
+margin: 0px;
+border: 0px;
+display: flex;
+flex-direction: column;
+}
+
+.hero {
+background-color: #1F2937;
+
+}
+
+.header {
+color: #F9FAF8;
+font-size: 24px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 0px 150px
+}
+
+ul{
+list-style-type: none;
+display: flex;
+gap: 32px;
+font-size: 18px;
+color: #E5E7EB;
+}
+
+.maincontent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 150px;
+}
+
+.textbox {
+    width: 400px;
+}
+
+.maintext {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.subtext {
+font-size: 18px;
+color: #E5E7EB;
+margin-bottom: 5px;
+}
+
+button{
+    background-color: #3882F6;
+    color: white;
+    border-radius: 4px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.button1 {
+    border-color: transparent;
+}
+
+.button2 {
+    border: 2px solid white;
+}
+
+
+.container2 {
+    text-align: center;
+}
+
+.infoheader {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    margin-top: 50px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 300px 100px;
+    gap: 50px;
+}
+
+.block {
+    border: 3px solid #3882F6;
+    border-radius: 8px;
+    height: 100px;
+    width: 100px;
+    padding: 16px;
+}
+.infoblock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 145px;
+}
+
+.container3{
+    background-color: #E5E7EB;
+    padding: 100px 300px;
+}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: end;
+}
+
+.container4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 200px;
+    background-color: #3882F6;
+    color: white;
+    padding: 50px 100px;
+    border-radius: 10px;
+}
+
+strong {
+    font-size: 18px;
+    color: white;
+}
+
+.footer {
+    background-color: #1F2937;
+    color:#E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
