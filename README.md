@@ -1,1 +1,2 @@
-# Portfolio
+This is a landing page template that I designed using HTML and CSS as part of the Foundations course of The Odin Project. 
+First, I created the basic HTML structure in VSCode and then created a separate file for my stylesheet before linking that file into my HTML document. Styling the document to get it as close as possible to the assignment's template layout was the most challenging part of this project. On multiple occasions, I had to use google to find the best CSS methods to achieve my desired effect. This project helped me to reinforce my knowledge and confidence of using Flexbox, with which I positioned divs around the screen and was able to create five sections, including a nav bar and footer, within a couple of hours. 
